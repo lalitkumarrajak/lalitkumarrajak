@@ -36,14 +36,14 @@ I build scalable, real-time web applications — from polished **React** and **N
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| [**PokerPlan**](https://pokerplan-lalit.vercel.app) · [repo](https://github.com/rajak312/pokerplan) | Real-time planning poker for remote Scrum teams | NestJS, Socket.IO, Prisma, PostgreSQL, Next.js |
-| [**QueryMind**](https://querymind-lalit.vercel.app) · [repo](https://github.com/rajak312/querymind) | AI data analyst — ask in plain English, Claude writes SQL that runs on Postgres in your browser | Next.js, Claude API, PGlite, Web Workers |
-| [**LinkPulse**](https://linkpulse-lalit.vercel.app) · [repo](https://github.com/rajak312/linkpulse) | URL shortener with QR codes and real-time click analytics | Next.js, Prisma, PostgreSQL, JWT |
-| [**MockForge**](https://mockforge-lalit.vercel.app) · [repo](https://github.com/rajak312/mockforge) | In-browser API mocking workbench with OpenAPI import and MSW export | React, Vite, MSW, Dexie |
-| [**Gatekeeper**](https://gatekeeper-lalit.vercel.app/playground) · [repo](https://github.com/rajak312/gatekeeper) | Self-hostable OAuth 2.1 / OpenID Connect provider — a mini Keycloak | NestJS, OIDC, Prisma, Next.js |
-| [**SplitEase**](https://splitease-lalit.vercel.app) · [repo](https://github.com/rajak312/splitease) | Cross-platform expense splitter for iOS, Android and web | React Native, Expo, Tamagui, GraphQL |
-| [**ShopStream**](https://shopstream-lalit.vercel.app) · [repo](https://github.com/rajak312/shopstream) | Event-driven e-commerce microservices behind a federated GraphQL API | NestJS, Apollo Federation, NATS, OpenTelemetry |
-| [**ShopStream GitOps**](https://github.com/rajak312/shopstream-gitops) | Kubernetes platform for ShopStream with Helm, Argo CD and Terraform | Kubernetes, Helm, Argo CD, Terraform |
+| [**PokerPlan**](https://pokerplan-lalit.vercel.app) · [repo](https://github.com/lalitkumarrajak/pokerplan) | Real-time planning poker for remote Scrum teams | NestJS, Socket.IO, Prisma, PostgreSQL, Next.js |
+| [**QueryMind**](https://querymind-lalit.vercel.app) · [repo](https://github.com/lalitkumarrajak/querymind) | AI data analyst — ask in plain English, Claude writes SQL that runs on Postgres in your browser | Next.js, Claude API, PGlite, Web Workers |
+| [**LinkPulse**](https://linkpulse-lalit.vercel.app) · [repo](https://github.com/lalitkumarrajak/linkpulse) | URL shortener with QR codes and real-time click analytics | Next.js, Prisma, PostgreSQL, JWT |
+| [**MockForge**](https://mockforge-lalit.vercel.app) · [repo](https://github.com/lalitkumarrajak/mockforge) | In-browser API mocking workbench with OpenAPI import and MSW export | React, Vite, MSW, Dexie |
+| [**Gatekeeper**](https://gatekeeper-lalit.vercel.app/playground) · [repo](https://github.com/lalitkumarrajak/gatekeeper) | Self-hostable OAuth 2.1 / OpenID Connect provider — a mini Keycloak | NestJS, OIDC, Prisma, Next.js |
+| [**SplitEase**](https://splitease-lalit.vercel.app) · [repo](https://github.com/lalitkumarrajak/splitease) | Cross-platform expense splitter for iOS, Android and web | React Native, Expo, Tamagui, GraphQL |
+| [**ShopStream**](https://shopstream-lalit.vercel.app) · [repo](https://github.com/lalitkumarrajak/shopstream) | Event-driven e-commerce microservices behind a federated GraphQL API | NestJS, Apollo Federation, NATS, OpenTelemetry |
+| [**ShopStream GitOps**](https://github.com/lalitkumarrajak/shopstream-gitops) | Kubernetes platform for ShopStream with Helm, Argo CD and Terraform | Kubernetes, Helm, Argo CD, Terraform |
 
 ---
 
@@ -62,8 +62,8 @@ I build scalable, real-time web applications — from polished **React** and **N
 
 - **Email**: [lalitrajak312@gmail.com](mailto:lalitrajak312@gmail.com)
 - **Portfolio**: [lalitrajak.vercel.app](https://lalitrajak.vercel.app)
-- **LinkedIn**: [Lalit Kumar Rajak](https://www.linkedin.com/in/rajak312)
-- **GitLab**: [gitlab.com/rajak312](https://gitlab.com/rajak312)
+- **LinkedIn**: [Lalit Kumar Rajak](https://www.linkedin.com/in/lalitrajak)
+- **GitLab**: [gitlab.com/lalitrajak](https://gitlab.com/lalitrajak)
 - **Discord**: [1177459370217439289](https://discord.com/users/1177459370217439289)
 
 Thanks for stopping by! Let's build something amazing together.
